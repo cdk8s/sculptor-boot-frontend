@@ -21,7 +21,7 @@ class Index extends Component {
         <Card>
           <div style={{ textAlign: 'left' }}>
             <iframe
-              src="//player.bilibili.com/player.html?aid=65883281&cid=114300970&page=1"
+              src="//player.bilibili.com/player.html?aid=79864146&cid=136683412&page=1"
               scrolling="no"
               frameBorder="no"
               width={500}
