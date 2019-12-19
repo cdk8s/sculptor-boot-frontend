@@ -32,6 +32,15 @@ class Index extends Component {
             <Divider/>
             <h1>欢迎使用</h1>
             <ul>
+              <li>代码生成器本质是规范的抽象，需要团队管理的加持才能最有最大效益</li>
+              <li>所以，视频前面 18 分钟是讲管理思维与代码生成器的关系，18:50 之后是具体 CURD 演示</li>
+              <li>对管理思维没有任何想法的可以直接快进到 18:50</li>
+            </ul>
+          </div>
+          <div style={{ marginTop: 20 }}>
+            <Divider/>
+            <h1>联系方式</h1>
+            <ul>
               <li>CDK8S：<a href="http://cdk8s.com" target="_blank">http://cdk8s.com</a></li>
               <li>Github：<a href="https://github.com/cdk8s" target="_blank">https://github.com/cdk8s</a></li>
               <li>Gitee：<a href="https://gitee.com/cdk8s" target="_blank">https://gitee.com/cdk8s</a></li>
